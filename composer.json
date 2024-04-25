@@ -1,0 +1,10 @@
+{
+  "name": "united/small_dto",
+  "autoload": {
+    "files": [
+      "models/BasicInterfaceDto.php",
+      "models/Tariff.php",
+      "models/TariffType.php"
+    ]
+  }
+}
